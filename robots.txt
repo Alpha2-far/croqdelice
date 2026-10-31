@@ -1,0 +1,14 @@
+# robots.txt — CROQ’Délice (https://croqdelice.com)
+# Directives pour moteurs de recherche et agents d'exploration IA
+
+User-agent: *
+Allow: /
+
+# Plan de site XML officiel
+Sitemap: https://croqdelice.com/sitemap.xml
+
+# Découverte et documentation IA (LLMs & Web Crawlers) :
+# Fiche d'identité synthétique & carte complète pour LLMs : https://croqdelice.com/llms.txt
+# Plan de site complet en Markdown avec exemples curl : https://croqdelice.com/sitemap.md
+# Flux RSS 2.0 d'actualités et nouvelles créations : https://croqdelice.com/rss.xml
+

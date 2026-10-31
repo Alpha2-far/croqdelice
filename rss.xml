@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CROQ’Délice — Actualités &amp; Créations Gourmandes</title>
+    <link>https://croqdelice.com/</link>
+    <description>Retrouvez toutes les créations de croques faits maison, les formules croustillantes et les nouveautés culinaires de CROQ’Délice à Cococodji (Bénin).</description>
+    <language>fr</language>
+    <lastBuildDate>Sat, 31 Oct 2026 12:00:00 GMT</lastBuildDate>
+    <atom:link href="https://croqdelice.com/rss.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Le Fondant : notre croque signature double pain, généreux et gourmand</title>
+      <link>https://croqdelice.com/menu.html#croques</link>
+      <guid isPermaLink="false">croqdelice-recette-fondant</guid>
+      <pubDate>Sat, 31 Oct 2026 10:00:00 GMT</pubDate>
+      <description><![CDATA[Découvrez Le Fondant à 2 500 FCFA : une création signature CROQ’Délice préparée avec un double pain doré, du jambon, du fromage fondant, de la viande hachée assaisonnée, du maïs doux et des tomates cerises juteuses.]]></description>
+    </item>
+
+    <item>
+      <title>Nos Formules Complètes : le croque de votre choix avec frites dorées et boisson</title>
+      <link>https://croqdelice.com/menu.html#formules</link>
+      <guid isPermaLink="false">croqdelice-formules-repas</guid>
+      <pubDate>Fri, 30 Oct 2026 11:30:00 GMT</pubDate>
+      <description><![CDATA[Faites une pause gourmande complète sans hésiter ! Nos 3 formules comprennent votre croque préféré (Classique à 2 500 FCFA, Gourmand à 3 000 FCFA ou Fondant à 4 000 FCFA), une portion de frites croustillantes et une boisson en canette fraîche.]]></description>
+    </item>
+
+    <item>
+      <title>Nouvelles recettes maison : Croq’ saucisse-maïs et Croq’ saucisson</title>
+      <link>https://croqdelice.com/menu.html#croques</link>
+      <guid isPermaLink="false">croqdelice-nouvelles-recettes</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <description><![CDATA[Pour varier les plaisirs, goûtez au Croq’ saucisse-maïs (2 000 FCFA) et au Croq’ saucisson (1 800 FCFA), combinant viande hachée, fromage fondant et charcuterie savoureuse pour une pause réconfortante.]]></description>
+    </item>
+
+    <item>
+      <title>Organisation &amp; fraîcheur : Pensez à précommander 24 h à l’avance</title>
+      <link>https://croqdelice.com/panier.html</link>
+      <guid isPermaLink="false">croqdelice-precommande-24h</guid>
+      <pubDate>Wed, 28 Oct 2026 14:00:00 GMT</pubDate>
+      <description><![CDATA[Afin de garantir la fraîcheur maximale de nos ingrédients et une préparation artisanale soignée, nous vous conseillons de passer commande 24 h à l’avance directement sur notre WhatsApp officiel (+229 01 51 15 19 19).]]></description>
+    </item>
+
+    <item>
+      <title>Suivez les coulisses et vidéos de préparation sur TikTok @croqdelice4</title>
+      <link>https://www.tiktok.com/@croqdelice4</link>
+      <guid isPermaLink="false">croqdelice-tiktok-coulisses</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <description><![CDATA[Plongez dans les coulisses de notre atelier à Cococodji et découvrez nos croques qui dorent à point en vidéo sur notre compte officiel TikTok @croqdelice4.]]></description>
+    </item>
+  </channel>
+</rss>
+

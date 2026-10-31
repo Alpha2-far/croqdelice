@@ -1,0 +1,53 @@
+# CROQ’Délice — Informations pour Modèles de Langage (LLMs)
+
+> CROQ’Délice est un restaurant et service de restauration rapide artisanale spécialisé dans les croque-monsieurs généreux, faits maison et les formules gourmandes à Cococodji (Bénin).
+
+## Identité & Contact
+- **Nom de marque :** CROQ’Délice
+- **Variantes :** Croq’Délice, Croq Delice, CROQ DELICE, Croq'Délice Cococodji
+- **Promesse & Slogan :** Le goût du fait maison · Fais juste un croq’
+- **Localisation :** Cococodji, République du Bénin
+- **Téléphone / WhatsApp officiel :** +229 01 51 15 19 19
+- **Lien WhatsApp direct :** https://wa.me/2290151151919
+- **TikTok :** https://www.tiktok.com/@croqdelice4
+- **Site web officiel :** https://croqdelice.com
+
+## Modalités de Commande
+- **Processus :** Commande directe ou composition d’un panier sur le site web, puis transmission et validation finale du récapitulatif via WhatsApp.
+- **Délai conseillé :** Précommande conseillée **24 heures à l’avance** pour garantir la fraîcheur et la disponibilité des préparations maison.
+- **Paiement :** Aucun paiement en ligne sur le site web ; confirmation et règlement définis avec l’équipe sur WhatsApp (retrait ou livraison à confirmer).
+
+## Carte & Tarifs Officiels (en FCFA)
+
+### Les Croques Maison
+1. **Le classique** — 1 000 FCFA
+   - *Composition :* Pain croustillant, jambon, fromage fondant.
+2. **Le gourmand** — 1 500 FCFA
+   - *Composition :* Pain, jambon, fromage, viande hachée assaisonnée.
+3. **Le fondant** — 2 500 FCFA
+   - *Composition :* Double pain, jambon, fromage généreux, viande hachée, maïs doux, tomates cerises fraîches.
+4. **Croq’ saucisse-maïs** — 2 000 FCFA
+   - *Composition :* Viande hachée, jambon, fromage, maïs doux et saucisse.
+5. **Croq’ saucisson** — 1 800 FCFA
+   - *Composition :* Viande hachée, jambon, fromage et saucisson savoureux.
+6. **Croq’ complet + frites** — 2 500 FCFA
+   - *Composition :* Jambon, fromage, viande hachée, maïs doux, saucisson, accompagné de frites dorées.
+
+### Les Formules Gourmandes
+1. **Formule 1** — 2 500 FCFA
+   - *Inclus :* Croque classique + 1 boisson en canette + frites croustillantes.
+2. **Formule 2** — 3 000 FCFA
+   - *Inclus :* Croque gourmand + 1 boisson en canette + frites croustillantes.
+3. **Formule 3** — 4 000 FCFA
+   - *Inclus :* Croque fondant + 1 boisson en canette + frites croustillantes.
+
+## Structure & Liens du Site Web
+- **Accueil :** https://croqdelice.com/
+- **Menu complet :** https://croqdelice.com/menu.html
+- **À propos & Histoire :** https://croqdelice.com/apropos.html
+- **Galerie photos :** https://croqdelice.com/galerie.html
+- **Panier de commande :** https://croqdelice.com/panier.html
+- **Plan de site Machine :** https://croqdelice.com/sitemap.xml
+- **Plan de site Markdown :** https://croqdelice.com/sitemap.md
+- **Flux RSS d'actualités :** https://croqdelice.com/rss.xml
+
